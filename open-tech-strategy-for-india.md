@@ -127,6 +127,8 @@ A recent study shows that 97% of commercial software contains OSS[2]. This incre
 
 Union and state government IT procurement policies should mandate that all software purchased through tax-payer funding be open-source. Proprietary and closed technologies should be considered only where adequate OSS technologies are not an option. 
 
+The existing [e-Governance Policy of 2015](https://www.meity.gov.in/DeitY_e-book/e-gov_policy/download/Policy%20Document.pdf) has an excellent set of recommendations in chapters 2-4 that must be implemented.
+
 The government being a significant purchaser of technology and IT services, such a mandate can go a long way in creating the right incentives for the entire OSS ecosystem. Current union government policies [3] favour the adoption of OSS but do not mandate it. 
 
 An open-source first policy mandate will have several positive spillover effects, such as:
@@ -144,7 +146,8 @@ The technical curriculum in undergraduate and postgraduate engineering programme
 Hands-on involvement in contributing to OSS can aid students to enter industries better prepared or chart them on a course to start their own technology enterprises.
 
 #### Establish an Open Source Programme Office
-To overcome the challenges of disparate OSS adoption and development efforts, an open-source Programme Office (OSPO) must be established as a statutory organisation under MeitY. 
+
+To overcome the challenges of disparate OSS adoption and development efforts, an open-source Programme Office (OSPO) must be established as a statutory organisation under MeitY.
 
 The focus of the OSPO should be coordinating policies, use and contribution of OSS across government bodies. It will also advocate for and promote OSS both nationally and globally.
 
@@ -152,7 +155,7 @@ OSPO should also push for project standards such as documentation, roadmap, code
 
 #### Fund Existing Open Source Projects
 
-At the heart of OSS is a contribution culture that nurtures these assets, not just consumes them. A balanced community must have both creators and users.
+At the heart of OSS is a contribution culture that nurtures these assets, not just consumes them. A balanced community must have both creators and users. 
 
 Such a community has to have a symbiotic relationship between the government, academia, private sector and non-profits. The proposed OSPO should help nurture and coordinate the efforts of such communities.
 
