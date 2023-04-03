@@ -5,7 +5,7 @@
 
 Takshashila Report
 Version 1.2
-February 28, 2022
+February 28, 2023
 
 A strategy for India to achieve strategic autonomy, economic growth, technology leadership, and skill development using open-source technologies.
 
