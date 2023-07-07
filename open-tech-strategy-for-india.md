@@ -21,6 +21,7 @@ A strategy for India to achieve strategic autonomy, economic growth, technology 
 - Rushubh Mehta
 - Saurabh Chandra
 - Venkatesh Hariharan
+- Kshitij Shah
 
 
 ### Working Draft
@@ -44,6 +45,7 @@ We recommend a range of policy initiatives for software, hardware and standards 
 - Inculcate OSS skills in the education curriculum
 - Fund existing open-source projects of interest to the government and public
 - Mandate acknowledgement of OSS Use
+- Publish, Circulate, Collect, and Report data required by Regulation & Compliance through Open APIs and Open Platforms
 
 
 ### Hardware
@@ -68,7 +70,7 @@ Technology is crucial for India’s development in the Information Age. It is al
 
 The acquisition of advanced technologies is not an end, but a means to bring peace and prosperity to all Indian citizens. Unhindered access to state-of-the-art technology and foundational knowledge is, therefore, in India’s national interest.
 
-Given the uncertain economic and geopolitical climate, Open source also helps achieve strategic autonomy and economic growth.  External Affairs Minister S Jaishankar echoed this sentiment when he said India “cannot be agnostic about technology” as there is “a strong political connotation in-built into technology”.[1] 
+Given the uncertain economic and geopolitical climate, Open Source also helps achieve strategic autonomy and economic growth.  External Affairs Minister S Jaishankar echoed this sentiment when he said India “cannot be agnostic about technology” as there is “a strong political connotation in-built into technology”.[1] 
 
 As India takes on the G20 presidency, a focus on open source technologies is indispensable. Whether building population-scale digital public infrastructure or leveraging technology to overcome developmental challenges, embracing open source has several advantages. 
 
@@ -107,7 +109,10 @@ Open standards, protocols  and open source software are invisible critical digit
 
 - Leveraging India’s strength in human resources in technology to build capability and capacity while collaborating with the world.
 
+### Effective Regulation & Compliance
 
+- Regulatory changes can be published in machine-readable formats (eg: APIs) which will improve adherence and reduce time to implementation
+- Data required for Compliance & Monitoring can be collected via Open Platforms and APIs making it easier for governing bodies to monitor compliance
 
 Given the importance of Open Tech, it is essential to have a far-reaching policy framework to nurture a contribution culture and create incentives for a sustainable Open Tech ecosystem. The rest of this document describes the current state of affairs and recommendations for each of the three verticals - software, hardware and standards.
 
@@ -120,12 +125,12 @@ Given the importance of Open Tech, it is essential to have a far-reaching policy
 ### CURRENT STATE OF AFFAIRS
 
 
-#### Unprecedented Reliance  on OSS
+#### Unprecedented Reliance on OSS
 
 A recent study shows that 97% of commercial software contains OSS[2]. This unprecedented reliance on OSS is a  strain on the communities of developers who maintain the code due to which they might not be provide adequate support. 
 
 
-#### Rise  of Cloud Based Services
+#### Rise of Cloud Based Services
 
 The rise of platforms and the increasing adoption of cloud-based software services render the conventional OSS adoption models insufficient. These services are convenient to use and manage but come at the cost of the freedoms and ownership associated with OSS. Users get tied down to the platforms, and their data is locked in silos. Open ecosystems built with open standards and protocols can alleviate these concerns.
 
@@ -209,7 +214,7 @@ The initiatives pioneered by Kerala Infrastructure and Technology for Education 
 The technical curriculum in undergraduate and postgraduate engineering programmes should be revamped to incorporate tools, skills and practices in demand in the industry. Hands-on involvement in contributing to OSS can aid students to enter industries better prepared or chart them on a course to start their own technology enterprises.
 
 
-#### Fund Existing Open Source Projects
+#### Fund New & Existing Open Source Projects
 
 Instead of reinventing the wheel, the government should identify and fund existing open-source communities through grants. The proposed OSPO can be tasked with identifying candidates for receiving such grants.
 
@@ -217,6 +222,15 @@ These grants should be recurring and fund OSS projects (either domestic or inter
 
 As Frank Nagle recommends[4], the grants should also include funding security support for widely used OSS projects. The tangible and intangible benefits would far outweigh the investments incurred.
 
+The OSPO should also be responsible to gather and allocate funding to development of important security and digital resilience alternatives of popular open source projects at the infrastructure level. Some examples of such projects would be as follows ...
+
+- Found & fund development of a non-profit for public-benefit digital infrastructure projects.
+    - Free SSL Certificates Issuance ([similar to ISRG running Let's Encrypt](https://letsencrypt.org))
+    - Free CDN Infrastructure for digital resources (eg: providing an alternative to Open Source Indic Font Files rather than using popular private CDNs like Google Fonts)
+    - Free Data Center Capacity for community hosted projects for mirrors of popular open source software (eg: Python Mirrors, PIP Package Manager, Docker Registry Mirrors, etc)
+- Fund development and adoption of existing projects for Govt Bodies, Enterprises, and Public Use
+    - Adoption and use of Version Control Platforms like OpenForge, GitLab, SourceForge (alternatives to Github which is privately run)
+    - Extension of the CERT-IN program for Vulnerability Reporting and Management with API-based infrastructure and static-code analysis tools for monitoring and reporting of vulnerabilities.
 
 #### Mandate Acknowledgement of OSS Use
 
